@@ -18,8 +18,8 @@ This plugin can be great to enable teams to check sketch file consistency and en
 *Note: Validating the entire document may take a few minutes depending on the size. Your sketch application may lockup until it's completed.*
 
 5. A report will generate and open in your web browser showing you the results, red columns meaning there was an error found with this property.
---* If your font size is invalid, the line height will automatically become highlighted as invalid.
---* If the layer style passes 100%, the layer will not appear in the page. If nothing appears in the report, all your layers pass 💯
+⋅⋅* If your font size is invalid, the line height will automatically become highlighted as invalid.
+⋅⋅* If the layer style passes 100%, the layer will not appear in the page. If nothing appears in the report, all your layers pass 💯
 ![alt text](https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/screenshots/report.png "Report")
 
 ## Font and Sizing requirements
