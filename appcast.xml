@@ -8,5 +8,12 @@
 <item>
   <enclosure url="https://github.com/JarOfCookies/Sketch-Design-systems-validator/releases/download/v1/ds-textvalidator.sketchplugin-1.0.zip" sparkle:version="1.0"/>
 </item>
+<title>Design systems layer validator v1.1</title>
+<link>https://github.com/JarOfCookies/Sketch-Design-systems-validator</link>
+<description>Updated font for mobile from SF Sans Pro to SF Pro</description>
+<language>en</language>
+<item>
+  <enclosure url="https://github.com/JarOfCookies/Sketch-Design-systems-validator/releases/download/v1/ds-textvalidator.sketchplugin-1.1.zip" sparkle:version="1.0"/>
+</item>
 </channel>
 </rss>
