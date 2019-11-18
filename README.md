@@ -48,3 +48,5 @@ This plugin can be great to enable teams to check sketch file consistency and en
 ## Creators Note
 
 I am not the most proficient in JS, and the Sketch APIs are not the most understandable in the world. If you know of a better algorithm do let me know ✌️
+
+Updates soon!
