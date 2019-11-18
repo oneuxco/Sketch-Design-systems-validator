@@ -1,0 +1,26 @@
+{
+    "name" : "⛑ Styleguide validator",
+    "identifier" : "textvalidator.plugin",
+    "version" : "1.0",
+    "description" : "Check your layer styles",
+    "authorEmail" : "matt.talebi@email.com",
+    "author" : "Matthew Talebi",
+    "appcast" : "",
+    "icon": "icon/logo.png",
+    "commands" : [
+    {
+        "script" : "CheckFontWeb.js",
+        "handler" : "onRun",
+        "shortcut" : "",
+        "name" : "Web Font Validator",
+        "identifier" : "my.plugin.checkfontweb"
+    },
+    {
+        "script" : "CheckFontMobile.js",
+        "handler" : "onRun",
+        "shortcut" : "",
+        "name" : "Mobile Font Validator",
+        "identifier" : "my.plugin.checkfontmobile"
+    }
+  ],
+}
