@@ -5,7 +5,7 @@ const font = {
     size:    [24, 16, 14, 12],
     line:    [33, 22, 20, 18],
     kerning: [],
-    family: ["Roboto", "SF Pro"]
+    family: ["Roboto", "SF Sans Pro"]
 }
 
 var onRun = function(context) {
