@@ -11,6 +11,8 @@ This plugin can be great to enable teams to check sketch file consistency and en
 1. Download or clone the contents, and copy/install DS-Textvalidator.sketchplugin to your Sketch plugins folder
 2. From your plugins menu select "⛑Styleguide Validator"
 3. Choose if you want to validate Web or Mobile font styles. Below is a table of the font styles this plugin currently compares to.
+![alt text](https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/screenshots/web-mobile.png "web or mobile")
+
 4. A popup should appear asking if you want to validate the full document or the page currently selected
 
 ![alt text](https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/screenshots/page-document-selection.png "Page or Document")
