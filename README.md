@@ -43,7 +43,7 @@ This plugin can be great to enable teams to check sketch file consistency and en
 #### Font Family
 | Web Font | Mobile Font |
 |----------|-------------|
-| Open Sans, Noto Sans TC, Noto Sans SC | Roboto, SF Sans Pro |
+| Open Sans, Noto Sans TC, Noto Sans SC | Roboto, SF Pro |
 
 ## Creators Note
 
