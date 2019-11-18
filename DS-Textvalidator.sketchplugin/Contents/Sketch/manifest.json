@@ -1,7 +1,7 @@
 {
     "name" : "⛑ Styleguide validator",
     "identifier" : "textvalidator.plugin",
-    "version" : "1.1",
+    "version" : "1.2",
     "description" : "Check your layer styles",
     "authorEmail" : "matt.talebi@email.com",
     "author" : "Matthew Talebi",
